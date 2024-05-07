@@ -16,4 +16,4 @@ This repository is licensed under MIT License - see [License](LICENSE "License")
 
 
 
-> [HackerRank](https://www.hackerrank.com/profile/shefali040793 "HackerRank Profile")
+> [HackerRank Profile](https://www.hackerrank.com/profile/shefali040793 "HackerRank Profile")
