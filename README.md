@@ -1,5 +1,7 @@
 ## Description
-Documenting my solutions of all the SQL challenges for all easy, medium and hard difficulty levels on HackerRank executed on either MySQL or MS SQL environment. The repository contains 6 folders for all domains:
+Documenting my solutions of all the SQL challenges for all easy, medium and hard difficulty levels on HackerRank. The repository contains 6 folders for all domains with solutions executed on either MySQL or MS SQL environment.
+
+## Domain Folders in Repo:
 * Basic Select
 * Advanced Select
 * Aggregation
@@ -9,5 +11,7 @@ Documenting my solutions of all the SQL challenges for all easy, medium and hard
 
 ## License
 This repository is licensed under MIT License - see [License](LICENSE "License") for more details
+
+
 
 > [HackerRank](https://www.hackerrank.com/profile/shefali040793 "HackerRank Profile")
