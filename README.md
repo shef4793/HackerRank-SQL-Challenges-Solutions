@@ -1,4 +1,7 @@
-![HackerRank Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png">
+</p>
+<!-- ![HackerRank Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png) -->
 
 ## Description
 Documenting my solutions of the SQL challenges for all easy, medium and hard difficulty levels on HackerRank. The repository contains 6 folders for all domains with solutions executed on either MySQL or MS SQL environment.
