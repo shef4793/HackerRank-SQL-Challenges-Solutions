@@ -5,5 +5,4 @@ Documenting my solutions of all the SQL challenges for all easy, medium and hard
 ### Basic Select
 
 
-> HackerRank Profile: https://www.hackerrank.com/profile/shefali040793
 > [HackerRank](https://www.hackerrank.com/profile/shefali040793 "HackerRank Profile")
