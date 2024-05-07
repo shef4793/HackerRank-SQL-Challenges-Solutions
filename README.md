@@ -1,5 +1,5 @@
 ## Description
-Documenting my solutions of all the SQL challenges for all easy, medium and hard difficulty levels on HackerRank. The repository contains 6 folders for all domains with solutions executed on either MySQL or MS SQL environment.
+Documenting my solutions of the SQL challenges for all easy, medium and hard difficulty levels on HackerRank. The repository contains 6 folders for all domains with solutions executed on either MySQL or MS SQL environment.
 
 ## Domain Folders in Repo:
 * Basic Select
