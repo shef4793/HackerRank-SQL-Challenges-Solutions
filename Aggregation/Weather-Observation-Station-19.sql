@@ -1,0 +1,9 @@
+-- Weather Observation Station 19
+-- Author: Shefali Kolge
+
+SELECT ROUND(
+    SQRT(
+        POWER(MAX(lat_n) - MIN(lat_n),2) + POWER(MAX(long_w) - MIN(long_w),2)
+    )
+    ,4) 
+FROM station;
